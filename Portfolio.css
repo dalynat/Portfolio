@@ -1,0 +1,65 @@
+body{
+    background-color: #173e43
+}
+.heading{
+    color: #fae596
+}
+.jumbotron{
+    background-color: #DDDFD4;
+}
+.navbar{
+    background-color: #DDDFD4;
+}
+.linkcolor{
+    color: #3fb0a6;
+    
+}
+.acolor{
+    color: #3fb0a6;
+}
+.links{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.pic{
+    border:3px solid #fae596;
+    /* padding-right: 20px; */
+}
+.center{
+    text-align: center;
+}
+.left{
+    padding-right:150px
+}
+.text{
+    padding-left: 20px
+}
+.right{
+    padding-right: 20px
+}
+.linkone{
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.linkthree{
+    padding-right: 200px
+}
+.space{
+    height: 300px;
+    width: 20px;
+}
+.space2{
+    height: 150px;
+    width: 20px;
+}
+.name{
+    font-size: 30px
+}
+/* 000b4F dark blue */
+/* 20368F medium blue */
+/* 829CD0 light blue */
+/* EBEBEB white */
+/* 6D6D6D light gray */
+/* #323232 dark gray */
