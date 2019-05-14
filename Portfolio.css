@@ -29,9 +29,9 @@ body{
 .center{
     text-align: center;
 }
-/* .left{
-    padding-right:150px
-} */
+.left{
+    margin-right:150px
+}
 .text{
     padding-left: 20px
 }
